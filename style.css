@@ -1,0 +1,34 @@
+.center{
+  margin: 0 auto;
+  background-color: blue
+  
+}
+#heading{
+  
+    font-family: 'Lobster', cursive;
+    font-size: 6rem;
+    font-weight: 100;
+    
+}
+.mid{
+    text-align: center;
+}
+.images{
+  display: inline-block;
+  margin:0 2%;
+}
+#footer{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inline{
+  display:inline-block;
+  font-family: 'Lobster', cursive;
+    margin: 0 12%;
+    font-weight: 100;
+}
+.butoon{
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin: 0 3%;
+}
